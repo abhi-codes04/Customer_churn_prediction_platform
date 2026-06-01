@@ -159,7 +159,9 @@ customer-churn-analytics-platform/
 │
 ├── streamlit_app/
 │   └── app.py
-│
+│     pages/
+        Analytics_Dashbaord.py
+        Churn_Prediction.py
 ├── api/
 │   └── main.py
 │
